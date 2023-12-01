@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CgJ0ecxAMr9RkZOevTxSM4GAu5JIrzCs8NNEcu+RMkzta5+RVk/1E6CDz/g+fE5WD0R6WkY/S95xHhvMhUMfQA==",
+  "dgSpecHash": "wT+7DdCcQn1wgJiIyZ0stIK6/J28Rhh5wo38WKeRe10UfjnDQq3Cz1NdzGDi1/377FhaNSY7kpJEgLAUZKxrJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Tests\\LibraryPepper.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Tests\\LibraryPepper.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alvar\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Alvar\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

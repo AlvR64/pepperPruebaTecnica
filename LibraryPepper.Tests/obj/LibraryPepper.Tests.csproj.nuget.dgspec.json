@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Tests\\LibraryPepper.Tests.csproj": {}
+    "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Tests\\LibraryPepper.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Application\\LibraryPepper.Application.csproj": {
+    "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Application\\LibraryPepper.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Application\\LibraryPepper.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Application\\LibraryPepper.Application.csproj",
         "projectName": "LibraryPepper.Application",
-        "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Application\\LibraryPepper.Application.csproj",
+        "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Application\\LibraryPepper.Application.csproj",
         "packagesPath": "C:\\Users\\Alvar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Application\\obj\\",
+        "outputPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alvar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Domain\\LibraryPepper.Domain.csproj": {
-                "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Domain\\LibraryPepper.Domain.csproj"
+              "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Domain\\LibraryPepper.Domain.csproj": {
+                "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Domain\\LibraryPepper.Domain.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Domain\\LibraryPepper.Domain.csproj": {
+    "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Domain\\LibraryPepper.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Domain\\LibraryPepper.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Domain\\LibraryPepper.Domain.csproj",
         "projectName": "LibraryPepper.Domain",
-        "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Domain\\LibraryPepper.Domain.csproj",
+        "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Domain\\LibraryPepper.Domain.csproj",
         "packagesPath": "C:\\Users\\Alvar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alvar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Infrastructure\\LibraryPepper.Infrastructure.csproj": {
+    "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Infrastructure\\LibraryPepper.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Infrastructure\\LibraryPepper.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Infrastructure\\LibraryPepper.Infrastructure.csproj",
         "projectName": "LibraryPepper.Infrastructure",
-        "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Infrastructure\\LibraryPepper.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Infrastructure\\LibraryPepper.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Alvar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alvar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -156,8 +156,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Application\\LibraryPepper.Application.csproj": {
-                "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Application\\LibraryPepper.Application.csproj"
+              "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Application\\LibraryPepper.Application.csproj": {
+                "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Application\\LibraryPepper.Application.csproj"
               }
             }
           }
@@ -209,14 +209,14 @@
         }
       }
     },
-    "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Tests\\LibraryPepper.Tests.csproj": {
+    "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Tests\\LibraryPepper.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Tests\\LibraryPepper.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Tests\\LibraryPepper.Tests.csproj",
         "projectName": "LibraryPepper.Tests",
-        "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Tests\\LibraryPepper.Tests.csproj",
+        "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Tests\\LibraryPepper.Tests.csproj",
         "packagesPath": "C:\\Users\\Alvar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alvar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -233,8 +233,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\Library_Pepper_TechnicalTest\\LibraryPepper.API.csproj": {
-                "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\Library_Pepper_TechnicalTest\\LibraryPepper.API.csproj"
+              "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\Library_Pepper_TechnicalTest\\LibraryPepper.API.csproj": {
+                "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\Library_Pepper_TechnicalTest\\LibraryPepper.API.csproj"
               }
             }
           }
@@ -310,14 +310,14 @@
         }
       }
     },
-    "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\Library_Pepper_TechnicalTest\\LibraryPepper.API.csproj": {
+    "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\Library_Pepper_TechnicalTest\\LibraryPepper.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\Library_Pepper_TechnicalTest\\LibraryPepper.API.csproj",
+        "projectUniqueName": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\Library_Pepper_TechnicalTest\\LibraryPepper.API.csproj",
         "projectName": "LibraryPepper.API",
-        "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\Library_Pepper_TechnicalTest\\LibraryPepper.API.csproj",
+        "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\Library_Pepper_TechnicalTest\\LibraryPepper.API.csproj",
         "packagesPath": "C:\\Users\\Alvar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\Library_Pepper_TechnicalTest\\obj\\",
+        "outputPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\Library_Pepper_TechnicalTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alvar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -334,8 +334,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Infrastructure\\LibraryPepper.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Infrastructure\\LibraryPepper.Infrastructure.csproj"
+              "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Infrastructure\\LibraryPepper.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Infrastructure\\LibraryPepper.Infrastructure.csproj"
               }
             }
           }

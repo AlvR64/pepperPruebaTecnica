@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LibraryPepper.Tests
-build_property.ProjectDir = C:\Users\Alvar\Desktop\Repos\mis-repos\PepperMoneyPrueba\PepperPruebaTecnica_alvarocrespo\LibraryPepper.Tests\
+build_property.ProjectDir = C:\Users\Alvar\Desktop\Repos\mis-repos\PepperPrueba\LibraryPepper.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Domain\\LibraryPepper.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Domain\\LibraryPepper.Domain.csproj",
       "projectName": "LibraryPepper.Domain",
-      "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Domain\\LibraryPepper.Domain.csproj",
+      "projectPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Domain\\LibraryPepper.Domain.csproj",
       "packagesPath": "C:\\Users\\Alvar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alvar\\AppData\\Roaming\\NuGet\\NuGet.Config",

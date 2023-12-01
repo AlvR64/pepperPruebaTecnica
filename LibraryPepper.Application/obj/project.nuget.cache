@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oK+kzPg1bgy8UfOMFrRSFOFv3Uenidh6TKWSh4mivxlUUbREAo8VGZdORu0edScaWyA1gZm0G6LX+WDHwf7G5A==",
+  "dgSpecHash": "JU+nirI/tEcH2bYmBWur+JZ1MIV5lpuVAV5JdSgjh2MjB/M7OVM4mF5Rp34NnSzIVkVWyGSwxRPNcVnkSaBmsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperMoneyPrueba\\PepperPruebaTecnica_alvarocrespo\\LibraryPepper.Application\\LibraryPepper.Application.csproj",
+  "projectFilePath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\PepperPrueba\\LibraryPepper.Application\\LibraryPepper.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alvar\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
     "C:\\Users\\Alvar\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
