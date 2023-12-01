@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dGHMAGrvqG23I4hfLnZJqgToNeHBW5XMieOSZTgBAsw=",
+  "Source": "LibraryPepper.API",
+  "BasePath": "_content/LibraryPepper.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
